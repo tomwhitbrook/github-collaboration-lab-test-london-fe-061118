@@ -1,4 +1,4 @@
-l# Git Remotes + GitHub Lab
+# Git Remotes + GitHub Lab
 
 ## Objectives
 
